@@ -1,0 +1,5 @@
+# Ignore these files and directories
+
+archive.zip
+__MACOSX/
+SimpleAPI/
